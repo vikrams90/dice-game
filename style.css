@@ -72,18 +72,24 @@ button{
         flex-direction: column;
     }
     
+    header{
+    font-size: 21px;
+    font-weight: 500;
+    color: aquamarine;
+    text-align: center;
+}
 
     #dice-1{
-     height: 350;
-     width: 350px;
+     height: 200px;
+     width: 200px;
      /* background-color: beige; */
      background-image: url(./images/0.png);
      background-size: cover;
 }
 
  #dice-2{
-     height: 350px;
-     width: 350px;
+     height: 200px;
+     width: 200px;
      /* background-color: beige; */
      background-image: url(./images/0.png);
      background-size: cover;
