@@ -40,7 +40,7 @@ main{
      height: 500px;
      width: 500px;
      /* background-color: beige; */
-     background-image: url(./images/0.png);
+     background-color: blueviolet;
      background-size: cover;
 }
 
@@ -48,7 +48,7 @@ main{
      height: 500px;
      width: 500px;
      /* background-color: beige; */
-     background-image: url(./images/0.png);
+     background-color: blueviolet;
      background-size: cover;
 
 }
@@ -84,6 +84,8 @@ button{
      width: 200px;
      /* background-color: beige; */
      background-image: url(./images/0.png);
+     background-color: blueviolet;
+
      background-size: cover;
 }
 
@@ -92,5 +94,7 @@ button{
      width: 200px;
      /* background-color: beige; */
      background-image: url(./images/0.png);
+     background-color: blueviolet;
+
      background-size: cover;
 }
