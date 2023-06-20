@@ -66,3 +66,25 @@ button{
     }
     
 }
+
+@media (max-width:760px) {
+    main{
+        flex-direction: column;
+    }
+    
+
+    #dice-1{
+     height: 350;
+     width: 350px;
+     /* background-color: beige; */
+     background-image: url(./images/0.png);
+     background-size: cover;
+}
+
+ #dice-2{
+     height: 350px;
+     width: 350px;
+     /* background-color: beige; */
+     background-image: url(./images/0.png);
+     background-size: cover;
+}
